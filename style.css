@@ -1,0 +1,19 @@
+.slider-bg, .subscribe-bg {
+    background-color: #fceae8;
+}
+
+.slider-radius, .subscribe-radius{
+    border-radius: 12px;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.categories-radius{
+    border-radius: 10px;
+}
+
+.shoes-radius, .backpack-radius{
+    border-radius: 10px;
+}
